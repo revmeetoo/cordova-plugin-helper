@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-helper",
+  "version": "1.0.0",
+  "author": "cyshield",
+  "description": "helper functions for app.",
+  "cordova": {
+    "id": "cordova-plugin-helper",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "cordova",
+    "helper"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
